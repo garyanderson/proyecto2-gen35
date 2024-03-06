@@ -1,0 +1,13 @@
+.fallo {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    &.error_img {
+        align-self:flex-end;
+    }
+
+}

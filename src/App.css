@@ -1,0 +1,11 @@
+.app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/fondo2.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
